@@ -32,12 +32,12 @@ Aulas publicadas/programadas
 * 04: Introdução ao Typescript para Angular ✔️
 * 05: Módulos (ngModule) ✔️
 * 06: Templates ✔️
-* 07: Serviços (Services) e Injeção de dependência (DI) :x:
-* 08: Dica de produtividade: code snippets :x:
+* 07: Serviços (Services) e Injeção de dependência (DI) ✔️
+* 08: Dica de produtividade: code snippets ✔️
 
 #### Data binding e eventos
-* 09: Property binding + Interpolation :x:
-* 10: Class e Style binding :x:
+* 09: Property binding + Interpolation ✔️
+* 10: Class e Style binding ✔️
 * 11: Event binding :x:
 * 12: Two-way data binding :x:
 * 13: Input properties :x:
