@@ -38,8 +38,8 @@ Aulas publicadas/programadas
 #### Data binding e eventos
 * 09: Property binding + Interpolation ✔️
 * 10: Class e Style binding ✔️
-* 11: Event binding :x:
-* 12: Two-way data binding :x:
+* 11: Event binding ✔️
+* 12: Two-way data binding ✔️
 * 13: Input properties :x:
 * 14: Output properties :x:
 * 15: Ciclo de vida (life-cycle) do Componente :x:
